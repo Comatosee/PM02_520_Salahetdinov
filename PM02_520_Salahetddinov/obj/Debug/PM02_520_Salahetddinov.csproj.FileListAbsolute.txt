@@ -1,0 +1,15 @@
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.csproj.AssemblyReference.cache
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\MainWindow.g.cs
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\App.g.cs
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov_MarkupCompile.cache
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov_MarkupCompile.lref
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\bin\Debug\PM02_520_Salahetddinov.exe.config
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\bin\Debug\PM02_520_Salahetddinov.exe
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\bin\Debug\PM02_520_Salahetddinov.pdb
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\MainWindow.baml
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.g.resources
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.Properties.Resources.resources
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.csproj.GenerateResource.cache
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.csproj.CoreCompileInputs.cache
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.exe
+C:\Users\208521\source\repos\PM02_520_Salahetddinov\PM02_520_Salahetddinov\obj\Debug\PM02_520_Salahetddinov.pdb
